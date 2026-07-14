@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_glm_compscore",
+  "source_file": "Experiment 2/analyses.sas",
+  "source_blob_sha": "dbb93aeda714ff4bb0934cda97a44a92a66081ab",
+  "source_commit": "b873be4ca927908e6ef071c5edb690ec6cfaccf3",
+  "notes": "Comprehension-score PROC GLM (Cond x centered OSIVQ predictors, interaction model) from Experiment 2/analyses.sas, run against a 90-row per-condition sample of Experiment 1's centered CSV embedded inline as DATALINES."
+}

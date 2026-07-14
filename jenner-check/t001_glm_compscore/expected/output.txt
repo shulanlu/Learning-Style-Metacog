@@ -1,0 +1,36 @@
+                                                       Comp score
+
+                            The GLM Procedure                             
+                Dependent Variable: totalcompquestionscore                
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Cond                    2         9.86348      4.93174      0.55    0.5810
+ObjCenter               1         9.19880      9.19880      1.02    0.3156
+SpCenter                1         5.69041      5.69041      0.63    0.4294
+VerbCenter              1         7.09865      7.09865      0.79    0.3777
+Cond:ObjCenter          2        25.36248     12.68124      1.41    0.2512
+Cond:SpCenter           2        17.15228      8.57614      0.95    0.3908
+Cond:VerbCenter         2         1.74279      0.87139      0.10    0.9080
+Error                  78       703.43870      9.01844                    
+
+Root MSE           3.00307    R-Square            0.0886
+Adj R-Sq           -0.0399
+
+                       Parameter Estimates                        
+
+Parameter             Estimate  Standard Error   t Value  Pr > |t|
+--------------------  --------  --------------  --------  --------
+(Intercept)            7.99068         0.55350     14.44    <.0001
+CondImage             -0.54682         0.78897     -0.69    0.4903
+CondText               0.26211         0.78161      0.34    0.7383
+ObjCenter             -0.62247         0.61634     -1.01    0.3156
+SpCenter              -0.48792         0.61425     -0.79    0.4294
+VerbCenter            -0.56664         0.63868     -0.89    0.3777
+CondImage:objcenter    0.66092         0.87683      0.75    0.4533
+CondText:objcenter     1.47246         0.87910      1.67    0.0979
+CondImage:spcenter     0.24236         0.82186      0.29    0.7689
+CondText:spcenter      1.13557         0.87289      1.30    0.1971
+CondImage:verbcenter   0.24425         0.83123      0.29    0.7697
+CondText:verbcenter   -0.15338         1.03398     -0.15    0.8825
+

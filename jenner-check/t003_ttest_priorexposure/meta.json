@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_ttest_priorexposure",
+  "source_file": "Experiment 2/analyses.sas",
+  "source_blob_sha": "dbb93aeda714ff4bb0934cda97a44a92a66081ab",
+  "source_commit": "b873be4ca927908e6ef071c5edb690ec6cfaccf3",
+  "notes": "Prior-exposure PROC TTEST (comprehension, metacog accuracy, study time by PriorExposureLearning) from Experiment 2/analyses.sas, run against a 90-row per-condition sample of Experiment 1's centered CSV embedded inline."
+}

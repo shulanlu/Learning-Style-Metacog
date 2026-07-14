@@ -1,0 +1,26 @@
+                     The TTEST Procedure                     
+              Variable:  TotalCompQuestionScore              
+
+PriorExposureLearning         N      Mean   Std Dev   Std Err
+---------------------  --------  --------  --------  --------
+0                            74    7.7432    3.0969    0.3600
+1                            16    8.3125    2.1203    0.5301
+Diff (1-2)                        -0.5693                    
+
+PriorExposureLearning  Lower CL Mean      Mean  Upper CL Mean  Lower CL Std Dev   Std Dev  Upper CL Std Dev
+---------------------  -------------  --------  -------------  ----------------  --------  ----------------
+0                             7.0258    7.7432         8.4607            2.6658    3.0969            3.6955
+1                             7.1827    8.3125         9.4423            1.5663    2.1203            3.2816
+Diff (1-2)                   -2.1874   -0.5693         1.0489            2.5741    2.9533            3.4647
+
+Method         Variances        DF   t Value  Pr > |t|
+-------------  ---------  --------  --------  --------
+Pooled         Equal            88     -0.70    0.4863
+Satterthwaite  Unequal        30.7     -0.89    0.3812
+
+   Equality of Variances    
+
+Method     F Value    Pr > F
+--------  --------  --------
+Folded F      2.13    0.1022
+
