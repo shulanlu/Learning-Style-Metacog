@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-14T16:30:06Z",
+  "_captured_run_id": "r_ceaaaa45ce1f4270b799550126bad9ef",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 90 rows from DATALINES.",
+    "NOTE: Wrote centered (90 rows, 14 columns).",
+    "NOTE: PROC TTEST statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

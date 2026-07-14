@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_corr_alpha",
+  "source_file": "Experiment 2/analyses.sas",
+  "source_blob_sha": "dbb93aeda714ff4bb0934cda97a44a92a66081ab",
+  "source_commit": "b873be4ca927908e6ef071c5edb690ec6cfaccf3",
+  "notes": "PROC CORR with ALPHA (Cronbach) over the OSIVQ and metacognition variables from Experiment 2/analyses.sas, run against a 90-row per-condition sample of Experiment 1's centered CSV embedded inline."
+}

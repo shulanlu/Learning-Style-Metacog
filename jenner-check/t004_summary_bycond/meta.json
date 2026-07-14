@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_summary_bycond",
+  "source_file": "Experiment 2/analyses.sas",
+  "source_blob_sha": "dbb93aeda714ff4bb0934cda97a44a92a66081ab",
+  "source_commit": "b873be4ca927908e6ef071c5edb690ec6cfaccf3",
+  "notes": "Per-condition PROC SUMMARY (means and standard errors by Cond) + PROC PRINT from Experiment 2/analyses.sas, run against a 90-row per-condition sample of Experiment 1's centered CSV embedded inline."
+}

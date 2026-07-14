@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-14T16:30:06Z",
+  "_captured_run_id": "r_9258586d906b443bb5d4c8983edcf7e3",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 90 rows from DATALINES.",
+    "NOTE: Wrote centered (90 rows, 14 columns).",
+    "NOTE: Option TITLE changed to Comp score.",
+    "NOTE: PROC GLM statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
